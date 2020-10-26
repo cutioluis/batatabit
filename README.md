@@ -1,2 +1,3 @@
 # batatabit
-creación del curso de mobile first en platzo
+creación del curso de mobile first en platzi
+
