@@ -1,7 +1,7 @@
 # Batatabit
 Sitio Web Increible
 # @Platzi 💚
-Un sitio web increible de criptomonedas para el[ curso de Movile First](https://platzi.com/cursos/frontend/ " curso de Movile First") de [@Platzi](https://platzi.com/ "Platzi")
+Un sitio web increible de criptomonedas para el[ curso de Moile First](https://platzi.com/cursos/frontend/ " curso de Movile First") de [@Platzi](https://platzi.com/ "Platzi")
 "En este curso increible aprenderemos:
  -Maquetar un sitio web 
  -Metodologia Mobile First
